@@ -1,0 +1,22 @@
+<!Document html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>table</title>
+</head>
+<body>
+    <table border="3">
+    
+      <tr>
+        <th>nome</th>
+        <th>idade</th>
+        </tr>
+      <tr>
+        <td>darlyson</td>
+       <td>20</td>
+      </tr>
+    </table>
+    <br>
+</body>
+</html>
